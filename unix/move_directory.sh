@@ -1,0 +1,1 @@
+scp -r path/to/source USER@HOST:path/to/destination
