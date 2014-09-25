@@ -1,0 +1,1 @@
+scp username@IPADDRESS:path/to/remote/file path/to/local/destination
